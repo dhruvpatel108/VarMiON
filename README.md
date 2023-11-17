@@ -1,2 +1,2 @@
 # VarMiON
-Official PyTorch code for Variationally Mimetic Operator Networks paper
+Official PyTorch code of Variationally Mimetic Operator Networks paper
